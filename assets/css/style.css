@@ -1,0 +1,33 @@
+body{
+    font-family: "Poppins";
+}
+.bg-color{
+    background: linear-gradient( to right, #FFA453,#FFd0A7);
+}
+.heading{
+    font-size: 4.2rem;
+    color: white;
+    font-family: "Poppins";
+    font-weight: 700;
+}
+.sub-heading{
+    color: white;
+    font-weight: 600;
+    font-size: 1.4rem;
+
+}
+.button{
+    color: rgb(212,159, 60);
+    width: 170px;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 5px;
+    border: none;
+}
+.bold{
+    font-size: 2rem;
+    font-weight: 600;
+}
+.color{
+    background-color: #ff8616;
+}
